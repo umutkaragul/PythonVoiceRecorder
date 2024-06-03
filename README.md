@@ -1,5 +1,5 @@
 **necessary libraries**
 
-pip install wavio
+import sounddevice as sd
 
 pip install scipy
